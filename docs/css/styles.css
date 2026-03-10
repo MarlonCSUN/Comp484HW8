@@ -52,6 +52,7 @@ li {
 nav {
   background: #0a4069;
   margin-bottom: 0;
+  position: fixed;
 }
 
 /* Header & Footer 
